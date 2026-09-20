@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+data/
+saved_model/
+api/saved_model/
+.DS_Store
+.streamlit/secrets.toml
+*.egg-info/
